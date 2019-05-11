@@ -4,7 +4,7 @@ inf_cfg = {
             "user" : "<DB username>",
             "pass" : "<DB password>",
             "db" : "<Database>",
-            "masurment" : "<measurement name>",
+            "masurement" : "<measurement name>",
             "port" : 8086
         }
 
